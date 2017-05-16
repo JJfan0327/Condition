@@ -1,1 +1,3 @@
 # Condition
+使用多个Condition实现通知部分线程
+ReentrantLock对象使用多个Condition对象唤醒指定线程，更好调度线程
